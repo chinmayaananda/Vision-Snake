@@ -1,0 +1,7 @@
+{
+  "name": "Vision Snake",
+  "description": "A classic Snake game controlled by hand gestures via webcam. Move your index finger to guide the snake!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
